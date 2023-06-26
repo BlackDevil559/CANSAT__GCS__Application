@@ -32,11 +32,11 @@ For in-depth analysis and visualization of telemetry data, the Telemetry Plotted
 By incorporating these pages into the Cansat GCS, users can have a comprehensive and user-friendly experience throughout the mission, enabling efficient monitoring, control, and analysis of the Cansat's performance.
 
 Please have a look on the software outlook
-[Image Alt Text](Dashboard.png)
-![Image Alt Text](Simulation(I).png)
-[Image Alt Text](Simulation(II).png)
-[Image Alt Text](Simulation(III).png)
-[Image Alt Text](TelemetryData.png)
-[Image Alt Text](TelemetryPlotted.png)
+[Dashboard](Dashboard.png)
+[Simulation(I)](Simulation(I).png)
+[Simulation(II)](Simulation(II).png)
+[Simulation(III)](Simulation(III).png)
+[TelemetryData](TelemetryData.png)
+[TelemetryPlotted](TelemetryPlotted.png)
 
 
