@@ -30,3 +30,7 @@ The Telemetry View Page presents live telemetry data in a structured table forma
 For in-depth analysis and visualization of telemetry data, the Telemetry Plotted Data page offers interactive and real-time plots. Users can explore different data sets and generate graphical representations to gain insights into the Cansat's behavior and performance over time. This feature enhances the ability to analyze and interpret telemetry data effectively.
 
 By incorporating these pages into the Cansat GCS, users can have a comprehensive and user-friendly experience throughout the mission, enabling efficient monitoring, control, and analysis of the Cansat's performance.
+
+Please have a look on the software outlook
+
+
